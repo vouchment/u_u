@@ -1,4 +1,3 @@
---[Obfuscated by Hercules v1.6.2 | hercules-obfuscator.xyz/discord | hercules-obfuscator.xyz/source]
 local cjjmlj = 15
 while false do local _ = 51 break end
 local function kjtcjp(mwkhfp) local _ = 93 end

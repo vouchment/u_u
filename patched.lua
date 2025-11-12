@@ -1,4 +1,4 @@
---[Obfuscated by Hercules v1.6.2 | hercules-obfuscator.xyz/discord | hercules-obfuscator.xyz/source]
+
 if false then local _ = 24 end
 local ihqkpy = 22
 local function ecwpam(adoqdy) local _ = 29 end
